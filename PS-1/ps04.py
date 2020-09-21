@@ -1,4 +1,4 @@
-# 04 WAP to accept radius of circle and calculate area and circumference of circle
+# PS-04 WAP to accept radius of circle and calculate area and circumference of circle
 
 r = float(input("Enter radius of circle: "))
 
