@@ -1,4 +1,4 @@
-# 03 WAP to accept side of square and calculate area and perimeter of square
+# PS-03 WAP to accept the side of the square and calculate the area and perimeter of a square
 
 side = float(input("Enter length of side: "))
 
