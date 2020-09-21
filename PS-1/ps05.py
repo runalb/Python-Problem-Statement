@@ -1,4 +1,4 @@
-# 05 WAP to calculate simple interest
+# PS-05 WAP to calculate simple interest
 
 p = float(input("Enter PA :"))
 r = float(input("R :"))
