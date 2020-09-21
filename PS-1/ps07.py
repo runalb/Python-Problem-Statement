@@ -1,4 +1,4 @@
-# 07 WAP to accept two numbers and one of the following operators +, -, *, /. Perform the given operation and display result
+# PS-07 WAP to accept two numbers and one of the following operators +, -, *, /. Perform the given operation and display result
 
 n1 = float(input("Enter 1st no. : "))
 n2 = float(input("Enter 2nd no. : "))
