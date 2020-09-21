@@ -1,4 +1,4 @@
-# 08 WAP to accept a number and decide whether it is an odd or even number
+# PS-08 WAP to accept a number and decide whether it is an odd or even number
 
 no = int(input("Enter no: "))
 
