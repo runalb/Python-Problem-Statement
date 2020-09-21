@@ -1,4 +1,4 @@
-# 06 WAP to accept 3 numbers and display smallest and largest number
+# PS-06 WAP to accept 3 numbers and display smallest and largest number
 
 num_l = []
 for x in range(3):
