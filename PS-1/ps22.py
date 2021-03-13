@@ -1,4 +1,4 @@
-# PS-21 WAP to display following pattern
+# PS-22 WAP to display following pattern
 # *********
 # ********
 # *******
