@@ -10,7 +10,7 @@ Output:
 1 + 2 + 3 + 4 + 5 = 15
 '''
 
-n = int(input("Enter no"))
+n = int(input("Enter no: "))
 
 sum = 0
 for x in range(1,n+1):
