@@ -11,7 +11,7 @@ odd_li = []
 
 user_input = ""
 while user_input.upper() != "Y":
-    print("To stop enter 'Y'")
+    print("Enter Integer no. OR To stop enter 'Y'")
     user_input = input("Enter no: ")
     try:
         if check_even(int(user_input)):
