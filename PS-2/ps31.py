@@ -4,9 +4,9 @@ def swap_first_n_last_val(li):
     first_val = li[0]
     last_val = li[-1]
 
-    #adding last val to first pos
+    #adding last val to the first pos
     li[0] = last_val
-    #adding first val to last pos
+    #adding first val to the last pos
     li[-1] = first_val
 
     return li
