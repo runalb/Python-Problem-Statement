@@ -21,7 +21,3 @@ idx = int(input(("\nEnter index to remove character: ")))
 
 string = remove_nth_idx_character(string,idx)
 print("\nString After removing {} idx character:\n {}".format(idx,string))
-
-
-
-
