@@ -7,5 +7,6 @@ def find_longest_word_in_li(li):
             longest_element = element
     return longest_element
 
+
 li = ['Apple','Banana','Orange','Pear','Cherry','Strawberry','Mango']
 print(find_longest_word_in_li(li))
