@@ -9,10 +9,10 @@ def exchange_1st_n_last_ch(str):
 
 
 string = "Hello all"
-print("Original string:\n",string)
+new_string = exchange_1st_n_last_ch(string)
 
-string = exchange_1st_n_last_ch(string)
-print("string after exchanging:\n",string)
+print("Original string:\n",string)
+print("New string after exchanging:\n",new_string)
 
 
 
