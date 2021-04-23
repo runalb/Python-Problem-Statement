@@ -4,7 +4,7 @@ def remove_nth_idx_character(str,idx):
     c = 0
     res = ''
 
-    for ch in string:
+    for ch in str:
         c = c + 1
         if c == idx:
             pass
